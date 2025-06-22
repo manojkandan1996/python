@@ -1,0 +1,5 @@
+[
+  {"question": "What does OOP stand for?", "answer": "Object-Oriented Programming"},
+  {"question": "What is the keyword to define a function in Python?", "answer": "def"},
+  {"question": "What is the output of 2 ** 3?", "answer": "8"}
+]
