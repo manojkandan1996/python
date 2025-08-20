@@ -1,0 +1,48 @@
+[
+  {
+    "model": "blog.category",
+    "pk": 1,
+    "fields": {
+      "name": "Tech",
+      "description": "Technology-related posts"
+    }
+  },
+  {
+    "model": "blog.category",
+    "pk": 2,
+    "fields": {
+      "name": "Lifestyle",
+      "description": "Life and wellness"
+    }
+  },
+  {
+    "model": "blog.post",
+    "pk": 1,
+    "fields": {
+      "title": "Intro to Django",
+      "content": "Django is a high-level Python Web framework...",
+      "publish_date": "2025-07-15",
+      "categories": [1]
+    }
+  },
+  {
+    "model": "blog.post",
+    "pk": 2,
+    "fields": {
+      "title": "Healthy Living Tips",
+      "content": "Living healthy involves balanced diet...",
+      "publish_date": "2025-07-20",
+      "categories": [2]
+    }
+  },
+  {
+    "model": "blog.post",
+    "pk": 3,
+    "fields": {
+      "title": "Tech & Health",
+      "content": "How technology can improve health...",
+      "publish_date": "2025-07-25",
+      "categories": [1, 2]
+    }
+  }
+]

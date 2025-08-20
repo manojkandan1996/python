@@ -1,0 +1,202 @@
+[
+  {
+    "model": "movies.movie",
+    "pk": 1,
+    "fields": {
+      "title": "Inception",
+      "genre": "Sci-Fi",
+      "release_date": "2010-07-16",
+      "rating": 8.8
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 2,
+    "fields": {
+      "title": "The Dark Knight",
+      "genre": "Action",
+      "release_date": "2008-07-18",
+      "rating": 9.0
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 3,
+    "fields": {
+      "title": "Interstellar",
+      "genre": "Sci-Fi",
+      "release_date": "2014-11-07",
+      "rating": 8.6
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 4,
+    "fields": {
+      "title": "Parasite",
+      "genre": "Thriller",
+      "release_date": "2019-05-30",
+      "rating": 8.6
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 5,
+    "fields": {
+      "title": "The Godfather",
+      "genre": "Crime",
+      "release_date": "1972-03-24",
+      "rating": 9.2
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 6,
+    "fields": {
+      "title": "Pulp Fiction",
+      "genre": "Crime",
+      "release_date": "1994-10-14",
+      "rating": 8.9
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 7,
+    "fields": {
+      "title": "The Shawshank Redemption",
+      "genre": "Drama",
+      "release_date": "1994-09-22",
+      "rating": 9.3
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 8,
+    "fields": {
+      "title": "Forrest Gump",
+      "genre": "Drama",
+      "release_date": "1994-07-06",
+      "rating": 8.8
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 9,
+    "fields": {
+      "title": "The Matrix",
+      "genre": "Sci-Fi",
+      "release_date": "1999-03-31",
+      "rating": 8.7
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 10,
+    "fields": {
+      "title": "Fight Club",
+      "genre": "Drama",
+      "release_date": "1999-10-15",
+      "rating": 8.8
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 11,
+    "fields": {
+      "title": "Gladiator",
+      "genre": "Action",
+      "release_date": "2000-05-05",
+      "rating": 8.5
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 12,
+    "fields": {
+      "title": "Whiplash",
+      "genre": "Drama",
+      "release_date": "2014-10-10",
+      "rating": 8.5
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 13,
+    "fields": {
+      "title": "The Prestige",
+      "genre": "Mystery",
+      "release_date": "2006-10-20",
+      "rating": 8.5
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 14,
+    "fields": {
+      "title": "Joker",
+      "genre": "Drama",
+      "release_date": "2019-10-04",
+      "rating": 8.4
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 15,
+    "fields": {
+      "title": "Avengers: Endgame",
+      "genre": "Action",
+      "release_date": "2019-04-26",
+      "rating": 8.4
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 16,
+    "fields": {
+      "title": "Titanic",
+      "genre": "Romance",
+      "release_date": "1997-12-19",
+      "rating": 7.9
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 17,
+    "fields": {
+      "title": "The Lion King",
+      "genre": "Animation",
+      "release_date": "1994-06-24",
+      "rating": 8.5
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 18,
+    "fields": {
+      "title": "La La Land",
+      "genre": "Musical",
+      "release_date": "2016-12-09",
+      "rating": 8.0
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 19,
+    "fields": {
+      "title": "Spirited Away",
+      "genre": "Animation",
+      "release_date": "2001-07-20",
+      "rating": 8.6
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 20,
+    "fields": {
+      "title": "The Social Network",
+      "genre": "Biography",
+      "release_date": "2010-10-01",
+      "rating": 7.7
+    }
+  }
+]

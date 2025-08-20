@@ -1,0 +1,227 @@
+[
+  {
+    "model": "products.product",
+    "pk": 1,
+    "fields": {
+      "name": "Wireless Mouse",
+      "category": "Electronics",
+      "price": "25.99"
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 2,
+    "fields": {
+      "name": "Bluetooth Headphones",
+      "category": "Electronics",
+      "price": "89.50"
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 3,
+    "fields": {
+      "name": "Running Shoes",
+      "category": "Fashion",
+      "price": "49.99"
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 4,
+    "fields": {
+      "name": "Leather Wallet",
+      "category": "Fashion",
+      "price": "39.00"
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 5,
+    "fields": {
+      "name": "Gaming Keyboard",
+      "category": "Electronics",
+      "price": "59.90"
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 6,
+    "fields": {
+      "name": "Backpack",
+      "category": "Fashion",
+      "price": "35.00"
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 7,
+    "fields": {
+      "name": "Smartphone Case",
+      "category": "Accessories",
+      "price": "15.75"
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 8,
+    "fields": {
+      "name": "Electric Toothbrush",
+      "category": "Health",
+      "price": "29.99"
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 9,
+    "fields": {
+      "name": "Yoga Mat",
+      "category": "Fitness",
+      "price": "19.99"
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 10,
+    "fields": {
+      "name": "Cookware Set",
+      "category": "Home",
+      "price": "129.95"
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 11,
+    "fields": {
+      "name": "Desk Lamp",
+      "category": "Home",
+      "price": "22.45"
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 12,
+    "fields": {
+      "name": "Sunglasses",
+      "category": "Fashion",
+      "price": "18.00"
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 13,
+    "fields": {
+      "name": "Hiking Boots",
+      "category": "Fashion",
+      "price": "79.99"
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 14,
+    "fields": {
+      "name": "Blender",
+      "category": "Kitchen",
+      "price": "44.99"
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 15,
+    "fields": {
+      "name": "Microwave Oven",
+      "category": "Kitchen",
+      "price": "150.00"
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 16,
+    "fields": {
+      "name": "Laptop Stand",
+      "category": "Electronics",
+      "price": "30.00"
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 17,
+    "fields": {
+      "name": "Wireless Charger",
+      "category": "Electronics",
+      "price": "20.50"
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 18,
+    "fields": {
+      "name": "Noise Cancelling Earbuds",
+      "category": "Electronics",
+      "price": "99.99"
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 19,
+    "fields": {
+      "name": "T-shirt",
+      "category": "Fashion",
+      "price": "10.00"
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 20,
+    "fields": {
+      "name": "Office Chair",
+      "category": "Furniture",
+      "price": "199.99"
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 21,
+    "fields": {
+      "name": "Standing Desk",
+      "category": "Furniture",
+      "price": "250.00"
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 22,
+    "fields": {
+      "name": "Wall Clock",
+      "category": "Home",
+      "price": "15.25"
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 23,
+    "fields": {
+      "name": "Smartwatch",
+      "category": "Electronics",
+      "price": "180.00"
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 24,
+    "fields": {
+      "name": "Power Bank",
+      "category": "Accessories",
+      "price": "25.00"
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 25,
+    "fields": {
+      "name": "Notebook",
+      "category": "Stationery",
+      "price": "5.99"
+    }
+  }
+]

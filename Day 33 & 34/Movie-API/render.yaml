@@ -1,0 +1,12 @@
+services:
+  - type: web
+    name: movie-api
+    env: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: gunicorn config.wsgi
+    autoDeploy: true
+    envVars:
+      - key: DJANGO_SETTINGS_MODULE
+        value: config.settings
+      - key: SECRET_KEY
+        generateValue: true
