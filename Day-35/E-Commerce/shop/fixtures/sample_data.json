@@ -1,0 +1,83 @@
+[
+    {
+        "model": "shop.customer",
+        "pk": 1,
+        "fields": {
+            "name": "Alice",
+            "email": "alice@example.com",
+            "phone_number": "1234567890"
+        }
+    },
+    {
+        "model": "shop.customer",
+        "pk": 2,
+        "fields": {
+            "name": "Bob",
+            "email": "bob@example.com",
+            "phone_number": "0987654321"
+        }
+    },
+    {
+        "model": "shop.product",
+        "pk": 1,
+        "fields": {
+            "name": "Pen",
+            "price": "1.50",
+            "stock_quantity": 100
+        }
+    },
+    {
+        "model": "shop.product",
+        "pk": 2,
+        "fields": {
+            "name": "Notebook",
+            "price": "3.25",
+            "stock_quantity": 200
+        }
+    },
+    {
+        "model": "shop.product",
+        "pk": 3,
+        "fields": {
+            "name": "Backpack",
+            "price": "25.00",
+            "stock_quantity": 50
+        }
+    },
+    {
+        "model": "shop.product",
+        "pk": 4,
+        "fields": {
+            "name": "Water Bottle",
+            "price": "10.00",
+            "stock_quantity": 80
+        }
+    },
+    {
+        "model": "shop.order",
+        "pk": 1,
+        "fields": {
+            "customer": 1,
+            "products": [
+                1,
+                2
+            ],
+            "order_date": "2025-08-01T12:00:00Z",
+            "status": "pending"
+        }
+    },
+    {
+        "model": "shop.order",
+        "pk": 2,
+        "fields": {
+            "customer": 2,
+            "products": [
+                2,
+                3,
+                4
+            ],
+            "order_date": "2025-08-02T15:30:00Z",
+            "status": "processing"
+        }
+    }
+]
